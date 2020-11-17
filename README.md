@@ -17,7 +17,7 @@ Prepare a python notebook (recommended- use Google Colab) to build, train and ev
 4. Model Building 
   a. Sequential Model layers- Use AT LEAST 3 dense layers with appropriate input for each. Choose the best number for hidden units.
   b. Add L2 regularization to all the layers.
-  c. Add one layer of dropout at the appropriate position and give reasons.
+  c. Add one layer of dropout at the appropriate position.
   d. Choose the appropriate activation function for all the layers.
   e. Print the model summary.
 5. Model Compilation 
